@@ -1,3 +1,5 @@
+// Nikolaj Vorobiev
+
 #include "proj2.h"
 
 void chyba(char *str)
